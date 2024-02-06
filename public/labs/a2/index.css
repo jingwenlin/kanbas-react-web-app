@@ -277,8 +277,16 @@
      width: 85px;
  }
 
+.list-group{
+    border-radius: 0%;
+}
 
-
+.list-group-item.active {
+    z-index: 2;
+    color: var(--bs-list-group-active-color);
+    background-color: black;
+    border-color: black;
+}
 
 
  /* p{
@@ -478,3 +486,18 @@ p#id-selector-2{
         width: 75px;
       }
              */
+
+
+             .wd-float-left {
+                float: left;
+             }
+             
+             .wd-float-right {
+                float: right;
+                height: 100px;
+             }
+             
+             .wd-float-done {
+                clear: both;
+             }
+             
