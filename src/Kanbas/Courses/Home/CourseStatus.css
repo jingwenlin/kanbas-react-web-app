@@ -1,0 +1,20 @@
+.course-status {
+    
+  }
+  
+  .course-status ul {
+    list-style: none; 
+    padding: 0; 
+  }
+  
+  .course-status li {
+    margin-bottom: 10px; 
+  }
+  
+  .course-status button {
+    width: 100%;
+    padding: 10px;
+    text-align: left; 
+    
+  }
+  
