@@ -41,9 +41,9 @@ function Dashboard() {
           ))}
         </div>
       </div>
-      <pre>
+      {/* <pre>
         <code>{JSON.stringify(courses, null, 2)}</code>
-      </pre>
+      </pre> */}
     </div>
   );
 }
