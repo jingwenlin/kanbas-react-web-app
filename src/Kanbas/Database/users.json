@@ -88,5 +88,89 @@
       "email": "legolas@mirkwood.com",
       "dob": "2879-07-15",
       "role": "FACULTY"
+    },
+
+
+
+
+
+
+    {
+      "_id": "130",
+      "username": "Angel",
+      "password": "angel",
+      "firstName": "Angel",
+      "lastName": "Bay",
+      "email": "Angel@stark.com",
+      "dob": "1999-05-29",
+      "role": "STUDENT"
+    },
+
+    {
+      "_id": "131",
+      "username": "Angel8",
+      "password": "angel8",
+      "firstName": "Lucy",
+      "lastName": "Li",
+      "email": "Lucky@stark.com",
+      "dob": "1998-05-29",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "132",
+      "username": "Angel88",
+      "password": "angel88",
+      "firstName": "Tori",
+      "lastName": "Wayne",
+      "email": "Lucky@stark.com",
+      "dob": "1997-05-29",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "133",
+      "username": "Angel881",
+      "password": "angel881",
+      "firstName": "Tanuj",
+      "lastName": "Ahuja",
+      "email": "Lucky@stark.com",
+      "dob": "1997-05-29",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "134",
+      "username": "Angel882",
+      "password": "angel882",
+      "firstName": "Wei",
+      "lastName": "Cai",
+      "email": "Lucky@stark.com",
+      "dob": "1997-07-29",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "135",
+      "username": "Angel883",
+      "password": "angel883",
+      "firstName": "Bayley",
+      "lastName": "Carter",
+      "email": "Lucky@stark.com",
+      "dob": "1997-09-29",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "136",
+      "username": "Angel884",
+      "password": "angel884",
+      "firstName": "Dada",
+      "lastName": "Chen",
+      "email": "Lucky@stark.com",
+      "dob": "2000-04-29",
+      "role": "STUDENT"
     }
+
+
+    
+  
+
+
+
   ]
