@@ -6,6 +6,9 @@ import { FaEllipsisV, FaCheckCircle, FaPlusCircle } from "react-icons/fa";
 import { useParams } from "react-router";
 function ModuleList() {
   const { cid } = useParams();
+  
+  const [moduleList, setModuleList] = useState<any[]>(modules);
+
   const modulesList = modules.filter((module) => module.course === cid);
   const [selectedModule, setSelectedModule] = useState(modulesList[0]);
   return (
